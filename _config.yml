@@ -1,0 +1,13 @@
+encoding: utf-8
+baseurl: ""
+url: "" 
+markdown: kramdown
+theme: minima 
+
+
+title: Paul Viallard 
+title-description: 
+  - PhD Student
+  - Machine Learning 
+  - PAC-Bayesian Theory
+  - Deep Learning
