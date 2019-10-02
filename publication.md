@@ -1,6 +1,6 @@
 ##### International Workshop
 <strong style="font-size: 13.5px">Interpreting Neural Networks as Majority Votes through the PAC-Bayesian Theory</strong>  
-Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant
+Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
 NeurIPS **2019** Workshop on [Machine Learning with guarantees](https://sites.google.com/view/mlwithguarantees), Vancouver, Canada.  
 [pdf][poster]
 
