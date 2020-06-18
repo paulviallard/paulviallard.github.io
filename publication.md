@@ -8,7 +8,7 @@ NeurIPS **2019** Workshop on [Machine Learning with guarantees](https://sites.go
 <strong style="font-size: 13.0px">Théorie PAC-Bayésienne pour l'apprentissage en deux étapes de réseaux de neurones</strong>  
 Paul Viallard ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant; Pascal Germain  
 French Conference on Machine Learning (CAp), **2020**  
-[[pdf](https://drive.google.com/file/d/1ayUPkvPUzLrvOg2onV-t1r2nPbO_X4Tb/view?usp=sharing)][[poster](https://drive.google.com/file/d/1ZdDZFtS8lLzEx0dWbIBu9lJBWI3aKXcf/view?usp=sharing)]
+[[pdf](https://drive.google.com/file/d/1ayUPkvPUzLrvOg2onV-t1r2nPbO_X4Tb/view?usp=sharing)][[poster](publication/2020/cap/poster)]
 
 
 ##### Not Published
