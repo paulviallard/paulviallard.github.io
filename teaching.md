@@ -1,6 +1,22 @@
+<!--
 ##### Fall 2019 (In French) 
 
 - CM - L1 - Introduction à l'informatique (4h)  
-[[lecture1](https://drive.google.com/file/d/1L4rUmVYa4ePNG3bCLkXHTJzh8AJnqc2e/view?usp=sharing)]
-[[lecture2](https://drive.google.com/open?id=1NE5Jnpkg6bhmr_5T6w6xpy2gSe3vE6vC)]
 - TP - L1 - Outils Numériques (8h)
+
+##### Spring 2020 (In French)
+
+- TP - L2 - Programmation Impérative (36h)
+- TP - L1 - Outils Informatiques (14h)
+-->
+##### Fall 2020 (In French)
+
+- CM - L1 - Introduction à l'informatique (6h)
+- TP - L1 - Outils Numériques (16h)
+- CM - L2 - Programmation Impérative (spécifique alternance) (2h)
+
+##### Spring 2021 (In French)
+
+- TP - L2 - Programmation Impérative (18h)
+- TP - L1 - Outils Informatiques (14h)
+- CM/TD - L2 - Système d'exploitation (16h)
