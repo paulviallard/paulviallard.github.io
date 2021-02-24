@@ -23,7 +23,7 @@ _Paul Viallard_ ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant; Pascal Germain
 French Conference on Machine Learning (CAp), **2020**  
 [[pdf](https://drive.google.com/file/d/1ayUPkvPUzLrvOg2onV-t1r2nPbO_X4Tb/view?usp=sharing)][[poster](publication/2020/cap/poster)][[video](https://www.youtube.com/watch?v=__3UueF5NZQ)]
 
-##### Not Published
+### Miscellaneous
 **Interpreting Neural Networks as Majority Votes with the PAC-Bayesian Theory**  
 _Paul Viallard_  
 Master Thesis, **2019**  
