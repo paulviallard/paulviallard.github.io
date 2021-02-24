@@ -13,5 +13,8 @@ layout: home
 ## Publications
 {% include_relative publication.md %}
 
+## Talks
+{% include_relative talk.md %}
+
 ## Teaching
 {% include_relative teaching.md %}
