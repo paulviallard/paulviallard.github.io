@@ -13,7 +13,7 @@ arXiv, **2021**
 [[pdf](https://arxiv.org/abs/2102.08649)]
 
 **A PAC-Bayes Analysis of Adversarial Robustness**  
-Guillaume Vidot ; _Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
+Guillaume Vidot ; _Paul Viallard_ ; Amaury Habrard ; Emilie Morvant  
 arXiv, **2021**  
 [[pdf](https://arxiv.org/abs/2102.11069)]
 
