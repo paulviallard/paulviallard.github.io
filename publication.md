@@ -29,15 +29,15 @@ arXiv, **2021**
 
 **Apprentissage de Vote de Majorité par Minimisation d’une C-Borne**  
 _Paul Viallard_ ; Emilie Morvant ; Pascal Germain  
-French Conference on Machine Learning (CAp 2021), *2021*
+French Conference on Machine Learning (CAp 2021), **2021**
 
 **Dérandomisation des Bornes PAC-Bayésiennes**  
 _Paul Viallard_ ; Emilie Morvant ; Pascal Germain  
-French Conference on Machine Learning (CAp 2021), *2021*
+French Conference on Machine Learning (CAp 2021), **2021**
 
 **Une Analyse PAC-Bayésienne de la Robustesse Adversariale**  
 Guillaume Vidot ; _Paul Viallard_ ; Emilie Morvant  
-French Conference on Machine Learning (CAp 2021), 2021
+French Conference on Machine Learning (CAp 2021), **2021**
 
 <strong style="font-size: 13.0px">Théorie PAC-Bayésienne pour l'apprentissage en deux étapes de réseaux de neurones</strong>  
 _Paul Viallard_ ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant; Pascal Germain  
