@@ -1,0 +1,2 @@
+- _2021-now_: Board Member of the Hubert Curien Laboratory
+- _2021-now_: Board Member of the FIL (Fédération Informatique de Lyon)
