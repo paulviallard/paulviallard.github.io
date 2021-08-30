@@ -1,3 +1,11 @@
+### International Conference
+
+**Self-Bounding Majority Vote Learning Algorithms**  
+**by the Direct Minimization of a Tight PAC-Bayesian C-Bound**  
+_Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
+ECML-PKDD, Online, **2021**  
+[[pdf](https://arxiv.org/abs/2104.13626)] [[published version]()]
+
 ### International Workshop
 ##### Not Published
 <strong style="font-size: 13.5px">Interpreting Neural Networks as Majority Votes through the PAC-Bayesian Theory</strong>  
@@ -18,6 +26,19 @@ arXiv, **2021**
 [[pdf](https://arxiv.org/abs/2102.11069)]
 
 ### French Conferences
+
+**Apprentissage de Vote de Majorité par Minimisation d’une C-Borne**  
+_Paul Viallard_ ; Emilie Morvant ; Pascal Germain  
+French Conference on Machine Learning (CAp 2021), *2021*
+
+**Dérandomisation des Bornes PAC-Bayésiennes**  
+_Paul Viallard_ ; Emilie Morvant ; Pascal Germain  
+French Conference on Machine Learning (CAp 2021), *2021*
+
+**Une Analyse PAC-Bayésienne de la Robustesse Adversariale**  
+Guillaume Vidot ; _Paul Viallard_ ; Emilie Morvant  
+French Conference on Machine Learning (CAp 2021), 2021
+
 <strong style="font-size: 13.0px">Théorie PAC-Bayésienne pour l'apprentissage en deux étapes de réseaux de neurones</strong>  
 _Paul Viallard_ ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant; Pascal Germain  
 French Conference on Machine Learning (CAp), **2020**  
