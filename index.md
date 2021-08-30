@@ -10,11 +10,27 @@ layout: home
 ## About Me 
 {% include_relative about.md %}
 
+<br />
+
 ## Publications
 {% include_relative publication.md %}
+
+<br />
 
 ## Talks
 {% include_relative talk.md %}
 
+<br />
+
+## Student Supervision
+{% include_relative supervision.md %}
+
+<br />
+
 ## Teaching
 {% include_relative teaching.md %}
+
+<br />
+
+## Activites
+{% include_relative activity.md %}
