@@ -4,7 +4,7 @@
 **by the Direct Minimization of a Tight PAC-Bayesian C-Bound**  
 _Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
 ECML-PKDD, Online, **2021**  
-[[pdf](https://arxiv.org/abs/2104.13626)] [[published version]()]
+[[pdf](https://arxiv.org/abs/2104.13626)] [[published version]()] [[code](https://github.com/paulviallard/ECML21-PB-CBound/)]
 
 ### International Workshop
 ##### Not Published
