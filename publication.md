@@ -4,7 +4,17 @@
 **by the Direct Minimization of a Tight PAC-Bayesian C-Bound**  
 _Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
 ECML-PKDD, Online, **2021**  
-[[pdf](https://arxiv.org/abs/2104.13626)] [[published version]()] [[code](https://github.com/paulviallard/ECML21-PB-CBound/)]
+[[pdf](https://arxiv.org/abs/2104.13626)] [[published version](https://link.springer.com/chapter/10.1007%2F978-3-030-86520-7_11)] [[code](https://github.com/paulviallard/ECML21-PB-CBound/)]
+
+**A PAC-Bayes Analysis of Adversarial Robustness**  
+_Paul Viallard_ ; Guillaume Vidot ; Amaury Habrard ; Emilie Morvant  
+NeurIPS, Online, **2021**  
+[[pdf](https://arxiv.org/abs/2102.11069)] [[published version]()] [[code](https://github.com/paulviallard/NeurIPS21-PB-Robustness)]
+
+<strong style="font-size: 13px">Learning Stochastic Majority Votes by Minimizing a PAC-Bayes Generalization Bound</strong>
+Valentina Zantedeschi ; _Paul Viallard_ ; Emilie Morvant ; Rémi Emonet ; Amaury Habrard ; Pascal Germain ; Benjamin Guedj  
+NeurIPS, Online, **2021**  
+[[pdf](https://arxiv.org/abs/2106.12535)] [[published version]()] [[code](https://github.com/vzantedeschi/StocMV)]
 
 ### International Workshop
 ##### Not Published
@@ -20,10 +30,6 @@ _Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant
 arXiv, **2021**  
 [[pdf](https://arxiv.org/abs/2102.08649)]
 
-**A PAC-Bayes Analysis of Adversarial Robustness**  
-Guillaume Vidot ; _Paul Viallard_ ; Amaury Habrard ; Emilie Morvant  
-arXiv, **2021**  
-[[pdf](https://arxiv.org/abs/2102.11069)]
 
 ### French Conferences
 
