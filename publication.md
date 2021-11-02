@@ -25,7 +25,7 @@ NeurIPS **2019** Workshop on [Machine Learning with guarantees](https://sites.go
 
 ### Research Reports
 
-**A General Framework for the Derandomization of PAC-Bayesian Bounds**  
+**A General Framework for the Disintegration of PAC-Bayesian Bounds**  
 _Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
 arXiv, **2021**  
 [[pdf](https://arxiv.org/abs/2102.08649)]
