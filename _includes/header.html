@@ -3,14 +3,8 @@
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       <h1>{{ site.title | escape }}</h1>
     </a>
-
     <div class="site-description">
-      {% for des in site.title-description %}
-        {{ des | replace: ' ', '&nbsp;' }}
-        {% if forloop.last != true %}
-          ■
-        {% endif %}
-      {% endfor %}
+      {{ site.title-description | escape }}
     </div>
 
 </header>
