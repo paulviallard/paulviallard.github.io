@@ -1,5 +1,8 @@
+**Alexiane Fraisse** --- Random Fourier Features and Domain Adaptation  
+April-July 2022, co-supervised with Guillaume Metzler and Emilie Morvant
+
 **Luiza Dzhidzhavadze** --- A Multiclass C-Bound-Based Algorithm  
 April-June 2021, co-supervised with Emilie Morvant
 
 **Himanshu Pandey** --- A Multiclass C-Bound-Based Algorithm  
-Apr-June 2021, co-supervised with Emilie Morvant
+April-June 2021, co-supervised with Emilie Morvant
