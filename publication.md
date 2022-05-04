@@ -9,12 +9,12 @@ ECML-PKDD, Online, **2021**
 **A PAC-Bayes Analysis of Adversarial Robustness**  
 _Paul Viallard_ ; Guillaume Vidot ; Amaury Habrard ; Emilie Morvant  
 NeurIPS, Online, **2021**  
-[[pdf](https://arxiv.org/abs/2102.11069)] [[published version]()] [[code](https://github.com/paulviallard/NeurIPS21-PB-Robustness)]
+[[pdf](https://arxiv.org/abs/2102.11069)] [[published version](https://papers.nips.cc/paper/2021/hash/78e8dffe65a2898eef68a33b8db35b78-Abstract.html)] [[code](https://github.com/paulviallard/NeurIPS21-PB-Robustness)]
 
 <strong style="font-size: 13px">Learning Stochastic Majority Votes by Minimizing a PAC-Bayes Generalization Bound</strong>
 Valentina Zantedeschi ; _Paul Viallard_ ; Emilie Morvant ; Rémi Emonet ; Amaury Habrard ; Pascal Germain ; Benjamin Guedj  
 NeurIPS, Online, **2021**  
-[[pdf](https://arxiv.org/abs/2106.12535)] [[published version]()] [[code](https://github.com/vzantedeschi/StocMV)]
+[[pdf](https://arxiv.org/abs/2106.12535)] [[published version](https://papers.nips.cc/paper/2021/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)] [[code](https://github.com/vzantedeschi/StocMV)]
 
 ### International Workshop
 ##### Not Published
