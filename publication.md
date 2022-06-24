@@ -33,21 +33,29 @@ arXiv, **2021**
 
 ### French Conferences
 
+<strong style="font-size: 12.5px">Intérêt des bornes désintégrées pour la généralisation avec des mesures de complexité</strong>  
+_Paul Viallard_ ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi  
+French Conference on Machine Learning (CAp 2022), Vannes, **2022**  
+
+<strong style="font-size: 13px">Learning Stochastic Majority Votes by Minimizing a PAC-Bayes Generalization Bound</strong>  
+Valentina Zantedeschi ; _Paul Viallard_ ; Emilie Morvant ; Rémi Emonet ; Amaury Habrard ; Pascal Germain ; Benjamin Guedj  
+French Conference on Machine Learning (CAp 2022), Vannes, **2022**  
+
 **Apprentissage de Vote de Majorité par Minimisation d’une C-Borne**  
 _Paul Viallard_ ; Emilie Morvant ; Pascal Germain  
-French Conference on Machine Learning (CAp 2021), **2021**
+French Conference on Machine Learning (CAp 2021), Online, **2021**
 
 **Dérandomisation des Bornes PAC-Bayésiennes**  
 _Paul Viallard_ ; Emilie Morvant ; Pascal Germain  
-French Conference on Machine Learning (CAp 2021), **2021**
+French Conference on Machine Learning (CAp 2021), Online, **2021**
 
 **Une Analyse PAC-Bayésienne de la Robustesse Adversariale**  
 Guillaume Vidot ; _Paul Viallard_ ; Emilie Morvant  
-French Conference on Machine Learning (CAp 2021), **2021**
+French Conference on Machine Learning (CAp 2021), Online, **2021**
 
 <strong style="font-size: 13.0px">Théorie PAC-Bayésienne pour l'apprentissage en deux étapes de réseaux de neurones</strong>  
 _Paul Viallard_ ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant; Pascal Germain  
-French Conference on Machine Learning (CAp), **2020**  
+French Conference on Machine Learning (CAp), Online, **2020**  
 [[pdf](https://drive.google.com/file/d/1ayUPkvPUzLrvOg2onV-t1r2nPbO_X4Tb/view?usp=sharing)][[poster](publication/2020/cap/poster)][[video](https://www.youtube.com/watch?v=__3UueF5NZQ)]
 
 ### Miscellaneous
