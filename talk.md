@@ -1,4 +1,4 @@
-_Apr 12th, 2023_: <strong style="font-size: 12.0px">Complexity Measures in Generalization Bounds: New Results and Future Directions</strong>  
+_Apr 12th, 2023_: **Complexity Measures in Generalization Bounds: New Results and Future Directions**  
 OBELIX Seminar <i style="font-size: 12.0px">(Université Bretagne Sud)</i>, Online
 
 _Jun 18th, 2021_: <strong style="font-size: 12.0px">Majority Vote Learning in PAC-Bayesian Theory: State of the Art and Novelty</strong>  
