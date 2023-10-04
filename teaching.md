@@ -1,3 +1,5 @@
+I taught during my PhD at the university of Saint-Etienne; see my [resume](/assets/resume.pdf) for more details.
+
 <!--
 ##### Fall 2019 (In French) 
 
@@ -20,7 +22,7 @@
 - TP - L2 - Programmation Impérative (18h)
 - TP - L1 - Outils Informatiques (14h)
 - CM/TD - L2 - Système d'exploitation (16h)
--->
+
 ##### Fall 2021 (In French)
 
 - CM - L1 - Introduction à l'informatique (6h)
@@ -30,3 +32,4 @@
 
 - TP - L2 - Programmation Impérative (18h)
 - CM/TD - L2 - Système d'exploitation (15h)
+-->
