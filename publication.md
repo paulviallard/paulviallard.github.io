@@ -1,5 +1,10 @@
 ### International Conference
 
+**Learning via Wasserstein-Based High Probability Generalisation Bounds**  
+_Paul Viallard_ ; Maxime Haddouche ; Umut Şimşekli ; Benjamin Guedj  
+NeurIPS, New Orleans, **2023**  
+[[pdf](https://arxiv.org/abs/2306.04375)]
+
 **Self-Bounding Majority Vote Learning Algorithms**  
 **by the Direct Minimization of a Tight PAC-Bayesian C-Bound**  
 _Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
@@ -16,6 +21,13 @@ Valentina Zantedeschi ; _Paul Viallard_ ; Emilie Morvant ; Rémi Emonet ; Amaury
 NeurIPS, Online, **2021**  
 [[pdf](https://arxiv.org/abs/2106.12535)] [[published version](https://papers.nips.cc/paper/2021/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html)] [[code](https://github.com/vzantedeschi/StocMV)]
 
+### International Journal
+
+**A General Framework for the Practical Disintegration of PAC-Bayesian Bounds**  
+_Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
+Machine Learning Journal (and presented at ECML-PKDD 2023), **2023**,  
+[[pdf](https://arxiv.org/abs/2102.08649)] [[code](https://github.com/paulviallard/MLJ-Disintegrated-PB)]
+
 ### International Workshop
 ##### Not Published
 <strong style="font-size: 13.5px">Interpreting Neural Networks as Majority Votes through the PAC-Bayesian Theory</strong>  
@@ -23,15 +35,21 @@ _Paul Viallard_ ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvan
 NeurIPS **2019** Workshop on [Machine Learning with guarantees](https://sites.google.com/view/mlwithguarantees), Vancouver, Canada.  
 [[pdf](https://drive.google.com/file/d/1hc66gKlyotowhK_4__DCaNemvMR1DXWN/view)][[poster](https://drive.google.com/file/d/1dpy2flI1BbDIdoArtLJl0XF_uL6zV2ZZ/view)]
 
-### Research Reports
+### Research Reports (not published)
 
-**A General Framework for the Disintegration of PAC-Bayesian Bounds**  
-_Paul Viallard_ ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
-arXiv, **2021**  
-[[pdf](https://arxiv.org/abs/2102.08649)]
+**Semi-Universal Adversarial Perturbations**  
+Jordan Frecon ; _Paul Viallard_ ; Emilie Morvant ; Gilles Gasso ; Amaury Habrard ; Stéphane Canu  
+[[pdf](https://hal.science/hal-03615461)]
 
+**Generalization Bounds with Arbitrary Complexity Measures**  
+_Paul Viallard_ ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi  
+[[pdf](https://openreview.net/pdf?id=WhwtdGkbaDr1)]
 
 ### French Conferences
+
+**Bornes de généralisation: quand l'information mutuelle rencontre les bornes PAC-Bayésiennes et désintégrées**  
+_Paul Viallard_  
+French Conference on Machine Learning (CAp 2023), Strasbourg, **2023**  
 
 <strong style="font-size: 12.5px">Intérêt des bornes désintégrées pour la généralisation avec des mesures de complexité</strong>  
 _Paul Viallard_ ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi  
@@ -55,7 +73,7 @@ French Conference on Machine Learning (CAp 2021), Online, **2021**
 
 <strong style="font-size: 13.0px">Théorie PAC-Bayésienne pour l'apprentissage en deux étapes de réseaux de neurones</strong>  
 _Paul Viallard_ ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant; Pascal Germain  
-French Conference on Machine Learning (CAp), Online, **2020**  
+French Conference on Machine Learning (CAp 2020), Online, **2020**  
 [[pdf](https://drive.google.com/file/d/1ayUPkvPUzLrvOg2onV-t1r2nPbO_X4Tb/view?usp=sharing)][[poster](publication/2020/cap/poster)][[video](https://www.youtube.com/watch?v=__3UueF5NZQ)]
 
 ### Miscellaneous
@@ -69,4 +87,3 @@ PhD Thesis, **2022**
 _Paul Viallard_  
 Master Thesis, **2019**  
 [[pdf](https://drive.google.com/open?id=13O2Ce3s9eR2M8GXsZkjuryQvot-lhVLf)][[slides](https://drive.google.com/open?id=1TSE4oVPSbgCwel1C85WGQIB4Ricy89-S)]
-
