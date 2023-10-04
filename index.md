@@ -32,5 +32,5 @@ layout: home
 
 <br />
 
-## Activites
+## Activities
 {% include_relative activity.md %}
