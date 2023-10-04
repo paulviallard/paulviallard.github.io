@@ -1,5 +1,8 @@
 _Apr 12th, 2023_: **Complexity Measures in Generalization Bounds: New Results and Future Directions**  
-OBELIX Seminar <i style="font-size: 12.0px">(Université Bretagne Sud)</i>, Online
+OBELIX Seminars <i style="font-size: 12.0px">(Université Bretagne Sud)</i>, Online
+
+_May 9th, 2022_: <strong style="font-size: 12.0px">Towards a Practical Use of PAC-Bayesian Generalization Bounds for Learning</strong>  
+SIERRA Seminars <i style="font-size: 12.0px">(INRIA Paris)</i>, Paris
 
 _Jun 18th, 2021_: <strong style="font-size: 12.0px">Majority Vote Learning in PAC-Bayesian Theory: State of the Art and Novelty</strong>  
 Signal Processing - Machine Learning Seminars <i style="font-size: 12.0px">(CNRS LIS, Aix-Marseille University)</i>, Online
