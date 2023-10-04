@@ -1,2 +1,2 @@
-- _2021-now_: Board Member of the Hubert Curien Laboratory
-- _2021-now_: Board Member of the FIL (Fédération Informatique de Lyon)
+- _May 2021 - January 2023_: Board Member of the Hubert Curien Laboratory
+- _May 2021 - January 2023_: Board Member of the FIL (Fédération Informatique de Lyon)
