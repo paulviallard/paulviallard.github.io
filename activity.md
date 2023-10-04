@@ -1,2 +1,3 @@
+- 2021: Member of CAp 2021's organization committee
 - _May 2021 - January 2023_: Board Member of the Hubert Curien Laboratory
 - _May 2021 - January 2023_: Board Member of the FIL (Fédération Informatique de Lyon)
