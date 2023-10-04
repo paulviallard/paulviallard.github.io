@@ -35,7 +35,7 @@ _Paul Viallard_ ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvan
 NeurIPS **2019** Workshop on [Machine Learning with guarantees](https://sites.google.com/view/mlwithguarantees), Vancouver, Canada.  
 [[pdf](https://drive.google.com/file/d/1hc66gKlyotowhK_4__DCaNemvMR1DXWN/view)][[poster](https://drive.google.com/file/d/1dpy2flI1BbDIdoArtLJl0XF_uL6zV2ZZ/view)]
 
-### Research Reports (not published)
+### Unpublished Research Reports
 
 **Semi-Universal Adversarial Perturbations**  
 Jordan Frecon ; _Paul Viallard_ ; Emilie Morvant ; Gilles Gasso ; Amaury Habrard ; Stéphane Canu  
@@ -43,7 +43,7 @@ Jordan Frecon ; _Paul Viallard_ ; Emilie Morvant ; Gilles Gasso ; Amaury Habrard
 
 **Generalization Bounds with Arbitrary Complexity Measures**  
 _Paul Viallard_ ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi  
-[[pdf](https://openreview.net/pdf?id=WhwtdGkbaDr1)]
+[[pdf](https://openreview.net/pdf?id=WhwtdGkbaDr)]
 
 ### French Conferences
 
