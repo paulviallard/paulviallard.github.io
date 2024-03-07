@@ -10,8 +10,6 @@ layout: home
 ## About Me 
 {% include_relative about.md %}
 
-<br />
-
 ## Publications
 {% include_relative publication.md %}
 
@@ -23,14 +21,9 @@ layout: home
 <br />
 
 ## Student Supervision
-{% include_relative supervision.md %}
+{% include_relative student.md %}
 
 <br />
 
 ## Teaching
 {% include_relative teaching.md %}
-
-<br />
-
-## Activities
-{% include_relative activity.md %}
