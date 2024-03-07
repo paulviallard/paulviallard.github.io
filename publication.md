@@ -3,34 +3,34 @@
 **Leveraging PAC-Bayes Theory and Gibbs Distributions for Generalization Bounds with Arbitrary Complexity Measure**  
 _Paul Viallard_, Rémi Emonet, Amaury Habrard, Emilie Morvant, Valentina Zantedeschi  
 International Conference on Artificial Intelligence and Statistics (AISTATS), 2024  
-[[pdf](https://arxiv.org/pdf/2402.13285.pdf)] [[code](https://github.com/paulviallard/AISTATS24-Complexity-Measures)]
+[[pdf](https://arxiv.org/pdf/2402.13285.pdf)] [[code](https://github.com/paulviallard/AISTATS24-Complexity-Measures)] 
 
 **Learning via Wasserstein-Based High Probability Generalisation Bounds**  
 _Paul Viallard_, Maxime Haddouche, Umut Şimşekli, Benjamin Guedj  
 Conference on Neural Information Processing Systems (NeurIPS), 2023  
-[[pdf](https://arxiv.org/abs/2306.04375)] [[code](https://github.com/paulviallard/NeurIPS23-PB-Wasserstein)]
+[[pdf](https://arxiv.org/abs/2306.04375)] [[code](https://github.com/paulviallard/NeurIPS23-PB-Wasserstein)] 
 
 **Self-bounding Majority Vote Learning Algorithms by the Direct Minimization of a Tight PAC-Bayesian C-Bound**  
 _Paul Viallard_, Pascal Germain, Amaury Habrard, Emilie Morvant  
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021  
-[[pdf](https://arxiv.org/pdf/2104.13626.pdf)] [[code](https://github.com/paulviallard/ECML21-PB-CBound)]
+[[pdf](https://arxiv.org/pdf/2104.13626.pdf)] [[code](https://github.com/paulviallard/ECML21-PB-CBound)] 
 
 **A PAC-Bayes Analysis of Adversarial Robustness**  
 _Paul Viallard_, Guillaume Vidot, Amaury Habrard, Emilie Morvant  
 Conference on Neural Information Processing Systems (NeurIPS), 2021  
-[[pdf](https://arxiv.org/abs/2102.11069)] [[code](https://github.com/paulviallard/NeurIPS21-PB-Robustness)]
+[[pdf](https://arxiv.org/abs/2102.11069)] [[code](https://github.com/paulviallard/NeurIPS21-PB-Robustness)] 
 
 **Learning Stochastic Majority Votes by Minimizing a PAC-Bayes Generalization Bound**  
 Valentina Zantedeschi, _Paul Viallard_, Emilie Morvant, Rémi Emonet, Amaury Habrard, Pascal Germain, Benjamin Guedj  
 Conference on Neural Information Processing Systems (NeurIPS), 2021  
-[[pdf](https://arxiv.org/abs/2106.12535)] [[code](https://github.com/vzantedeschi/StocMV)]
+[[pdf](https://arxiv.org/abs/2106.12535)] [[code](https://github.com/vzantedeschi/StocMV)] 
 
 ### International Journal
 
 **A General Framework for the Practical Disintegration of PAC-Bayesian Bounds**  
 _Paul Viallard_, Pascal Germain, Amaury Habrard, Emilie Morvant  
 Machine Learning Journal (and presented at ECML-PKDD 2023), 2023  
-[[pdf](https://arxiv.org/abs/2102.08649)] [[code](https://github.com/paulviallard/MLJ-Disintegrated-PB)]
+[[pdf](https://arxiv.org/abs/2102.08649)] [[code](https://github.com/paulviallard/MLJ-Disintegrated-PB)] 
 
 ### International Workshop
 
@@ -42,7 +42,7 @@ NeurIPS 2023 Workshop in Heavy Tails, 2023
 **Learning via Wasserstein-Based High Probability Generalisation Bounds**  
 _Paul Viallard_, Maxime Haddouche, Umut Şimşekli, Benjamin Guedj  
 NeurIPS 2023 Workshop Optimal Transport and Machine Learning, 2023  
-[[pdf](https://arxiv.org/abs/2306.04375)] [[code](https://github.com/paulviallard/NeurIPS23-PB-Wasserstein)]
+[[pdf](https://arxiv.org/abs/2306.04375)] [[code](https://github.com/paulviallard/NeurIPS23-PB-Wasserstein)] 
 
 **Interpreting Neural Networks as Majority Votes through the PAC-Bayesian Theory**  
 _Paul Viallard_, Pascal Germain, Amaury Habrard, Emilie Morvant  
@@ -92,4 +92,16 @@ Conférence sur l'Apprentissage automatique (CAp), 2021
 **Théorie PAC-Bayésienne pour l’apprentissage en deux étapes de réseaux de neurones**  
 _Paul Viallard_, Rémi Emonet, Amaury Habrard, Emilie Morvant, Pascal Germain  
 Conférence sur l'Apprentissage automatique (CAp), 2020
+
+### Miscellaneous
+
+**PAC-Bayesian Bounds and Beyond: Self-Bounding Algorithms and New Perspectives on Generalization in Machine Learning**  
+_Paul Viallard_  
+PhD thesis, 2022  
+[[pdf](https://drive.google.com/open?id=1WWZH3efffma_1YQYIljWhoD6V6RrAY9o)] [[slides](https://drive.google.com/open?id=1sVo_tGaADoJthR6XB9uQ7dRmjXdxPOUY)] [[code](https://github.com/paulviallard/PhDThesis/)] [[bibtex](https://drive.google.com/uc?export=download&id=1D84GK6pIYa0EQ5th3M2-CNPxcWbLM5Kp)] 
+
+**Interpreting Neural Networks as Majority Votes with the PAC-Bayesian Theory**  
+_Paul Viallard_  
+Master thesis, 2021  
+[[pdf](https://drive.google.com/open?id=13O2Ce3s9eR2M8GXsZkjuryQvot-lhVLf)] [[slides](https://drive.google.com/open?id=1TSE4oVPSbgCwel1C85WGQIB4Ricy89-S)] 
 

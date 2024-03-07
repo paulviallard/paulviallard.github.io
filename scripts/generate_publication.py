@@ -59,12 +59,28 @@ def get_pdf(entry):
     return entry.fields.get("pdf", "")
 
 
+def get_slides(entry):
+    return entry.fields.get("slides", "")
+
+
 def get_code(entry):
     return entry.fields.get("code", "")
 
 
+def get_bibtex(entry):
+    return entry.fields.get("bibtex", "")
+
+
 def get_year(entry):
     return entry.fields.get("year", "")
+
+
+def get_note(entry):
+    return entry.fields.get("note", "")
+
+
+def get_keywords(entry):
+    return entry.fields["keywords"].split(", ")
 
 ###############################################################################
 
@@ -81,7 +97,11 @@ def get_entry_dict(bibtex_file):
         year = get_year(entry)
         journal_conf = get_journal_conf(entry)
         pdf = get_pdf(entry)
+        slides = get_slides(entry)
         code = get_code(entry)
+        bibtex = get_bibtex(entry)
+        note = get_note(entry)
+        keywords = get_keywords(entry)
 
         new_entry = {
             "title": title,
@@ -90,16 +110,18 @@ def get_entry_dict(bibtex_file):
             "journal_conf": journal_conf,
             "year": year,
             "pdf": pdf,
-            "code": code
+            "slides": slides,
+            "code": code,
+            "bibtex": bibtex,
+            "note": note,
+            "keywords": keywords,
         }
 
-        if("keywords" in entry.fields):
-            keywords = entry.fields["keywords"].split(", ")
-            for keyword in keywords:
-                keyword = keyword.strip()
-                if(keyword not in entry_dict):
-                    entry_dict[keyword] = []
-                entry_dict[keyword].append(new_entry)
+        for keyword in keywords:
+            keyword = keyword.strip()
+            if(keyword not in entry_dict):
+                entry_dict[keyword] = []
+            entry_dict[keyword].append(new_entry)
 
     return entry_dict
 
@@ -173,12 +195,26 @@ def generate_string_entry(entry):
         else:
             string = string[:-2]+"  \n"
 
-    if(entry["pdf"] == "" and entry["code"] == ""):
+    if(entry["keywords"][0] == "misc"):
+        if(entry["note"] != ""):
+            string += f"{entry['note']}, "
+            if(entry["year"] != ""):
+                string += f"{entry['year']}  \n"
+            else:
+                string = string[:-2]+"  \n"
+
+    if(entry["pdf"] == "" and entry["code"] == ""
+       and entry["slides"] == "" and entry["bibtex"] == ""
+       ):
         string = string[:-3]
     if(entry["pdf"] != ""):
         string += f"[[pdf]({entry['pdf']})] "
+    if(entry["slides"] != ""):
+        string += f"[[slides]({entry['slides']})] "
     if(entry["code"] != ""):
-        string += f"[[code]({entry['code']})]"
+        string += f"[[code]({entry['code']})] "
+    if(entry["bibtex"] != ""):
+        string += f"[[bibtex]({entry['bibtex']})] "
 
     return string
 
