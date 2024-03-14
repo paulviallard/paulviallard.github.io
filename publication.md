@@ -98,7 +98,7 @@ Conférence sur l'Apprentissage automatique (CAp), 2020
 **PAC-Bayesian Bounds and Beyond: Self-Bounding Algorithms and New Perspectives on Generalization in Machine Learning**  
 _Paul Viallard_  
 PhD thesis, 2022  
-[[pdf](https://drive.google.com/open?id=1WWZH3efffma_1YQYIljWhoD6V6RrAY9o)] [[slides](https://drive.google.com/open?id=1sVo_tGaADoJthR6XB9uQ7dRmjXdxPOUY)] [[code](https://github.com/paulviallard/PhDThesis/)] [[bibtex](https://drive.google.com/uc?export=download&id=1D84GK6pIYa0EQ5th3M2-CNPxcWbLM5Kp)] 
+[[pdf](https://theses.hal.science/tel-04496162v1/document)] [[slides](https://drive.google.com/open?id=1sVo_tGaADoJthR6XB9uQ7dRmjXdxPOUY)] [[code](https://github.com/paulviallard/PhDThesis/)] [[bibtex](https://drive.google.com/uc?export=download&id=1D84GK6pIYa0EQ5th3M2-CNPxcWbLM5Kp)] 
 
 **Interpreting Neural Networks as Majority Votes with the PAC-Bayesian Theory**  
 _Paul Viallard_  
