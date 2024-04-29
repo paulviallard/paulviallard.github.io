@@ -51,6 +51,10 @@ NeurIPS 2019 Workshop on Machine Learning with Guarantees, 2019
 
 ### Unpublished Research Reports
 
+**Uniform Generalization Bounds on Data-Dependent Hypothesis Sets via PAC-Bayesian Theory on Random Sets**  
+Benjamin Dupuis, _Paul Viallard_, George Deligiannidis, Umut Şimşekli  
+[[pdf](https://arxiv.org/pdf/2404.17442.pdf)] 
+
 **Semi-Universal Adversarial Perturbations**  
 Jordan Frecon, _Paul Viallard_, Emilie Morvant, Gilles Gasso, Amaury Habrard, Stéphane Canu  
 [[pdf](https://hal.science/hal-03615461)] 
