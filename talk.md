@@ -1,5 +1,8 @@
 ### Seminars
 
+Aug 30th, 2024: **Uniform convergence bounds via PAC-Bayes and Wasserstein distances**  
+Journées MAS 2024, Poitiers, France  
+
 Nov 27th, 2023: **Uniform Convergence in PAC-Bayesian Bounds: Wasserstein Distances and Random Sets**  
 Data Intelligence Team Seminar, Université Jean Monnet, Saint-Etienne, France  
 
