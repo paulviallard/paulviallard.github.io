@@ -1,5 +1,15 @@
 ### International Conference
 
+**A Theoretically Grounded Extension of Universal Attacks from the Attacker's Viewpoint**  
+Jordan Frecon, _Paul Viallard_, Emilie Morvant, Gilles Gasso, Amaury Habrard, Stéphane Canu  
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024  
+[[pdf](https://hal.science/hal-03615461)] 
+
+**A Theoretical Link Between Generalisation and Flat Minima**  
+Maxime Haddouche, _Paul Viallard_, Umut Şimşekli, Benjamin Guedj  
+International Conference on Algorithmic Learning Theory (ALT), 2024  
+[[pdf](https://arxiv.org/abs/2402.08508)] 
+
 **Leveraging PAC-Bayes Theory and Gibbs Distributions for Generalization Bounds with Arbitrary Complexity Measure**  
 _Paul Viallard_, Rémi Emonet, Amaury Habrard, Emilie Morvant, Valentina Zantedeschi  
 International Conference on Artificial Intelligence and Statistics (AISTATS), 2024  
@@ -27,6 +37,11 @@ Conference on Neural Information Processing Systems (NeurIPS), 2021
 
 ### International Journal
 
+**Uniform Generalization Bounds on Data-Dependent Hypothesis Sets via PAC-Bayesian Theory on Random Sets**  
+Benjamin Dupuis, _Paul Viallard_, George Deligiannidis, Umut Şimşekli  
+Journal of Machine Learning Research, 2024  
+[[pdf](https://arxiv.org/abs/2404.17442)] 
+
 **A General Framework for the Practical Disintegration of PAC-Bayesian Bounds**  
 _Paul Viallard_, Pascal Germain, Amaury Habrard, Emilie Morvant  
 Machine Learning Journal (and presented at ECML-PKDD 2023), 2023  
@@ -50,18 +65,6 @@ NeurIPS 2019 Workshop on Machine Learning with Guarantees, 2019
 [[pdf](https://drive.google.com/file/d/1hc66gKlyotowhK_4__DCaNemvMR1DXWN/view)] 
 
 ### Unpublished Research Reports
-
-**Uniform Generalization Bounds on Data-Dependent Hypothesis Sets via PAC-Bayesian Theory on Random Sets**  
-Benjamin Dupuis, _Paul Viallard_, George Deligiannidis, Umut Şimşekli  
-[[pdf](https://arxiv.org/pdf/2404.17442.pdf)] 
-
-**Semi-Universal Adversarial Perturbations**  
-Jordan Frecon, _Paul Viallard_, Emilie Morvant, Gilles Gasso, Amaury Habrard, Stéphane Canu  
-[[pdf](https://hal.science/hal-03615461)] 
-
-**A Theoretical Link Between Generalisation and Flat Minima**  
-Maxime Haddouche, _Paul Viallard_, Umut Şimşekli, Benjamin Guedj  
-[[pdf](https://arxiv.org/pdf/2402.08508.pdf)] 
 
 **Tighter Generalisation Bounds via Interpolation**  
 _Paul Viallard_, Maxime Haddouche, Umut Şimşekli, Benjamin Guedj  
