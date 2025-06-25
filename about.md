@@ -1,5 +1,5 @@
 [Inria Rennes](https://www.inria.fr/fr/centre-inria-universite-rennes)  
-[LACODAM Team](https://team.inria.fr/lacodam/fr/)  
+[MALT Team](https://team.inria.fr/malt/)  
 Campus de Beaulieu, 263 Avenue Général Leclerc  
 35042 Rennes, France  
 
