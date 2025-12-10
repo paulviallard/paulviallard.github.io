@@ -1,3 +1,11 @@
+### Tutorials
+
+Jun 25th, 2025: **How to Make Use of Learning Theory to Learn Efficient ML Models: From PAC-Bayesian Generalization Bounds to (Self-Bounding) Learning Algorithms**  
+Conference on Learning Theory (COLT), Lyon, France  
+Presented with [Emilie Morvant](https://emorvant.github.io/)  
+
+[Ressources]
+
 ### Seminars
 
 Aug 30th, 2024: **Uniform convergence bounds via PAC-Bayes and Wasserstein distances**  
