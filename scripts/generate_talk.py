@@ -15,11 +15,18 @@ TALK_FILE = os.path.join(
     os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
     "talk.md")
 TALK_TYPE_LIST = {
+    "tutorial": "Tutorials",
     "seminar": "Seminars",
     "popularization": "Science popularization",
 }
 
 ###############################################################################
+
+
+def get_note(entry):
+    note = entry.fields.get("note", "")
+    note = remove_latex(note)
+    return note
 
 
 def get_title(entry):
@@ -48,6 +55,10 @@ def get_date(entry):
     return entry.fields.get("date", "").split("-")
 
 
+def get_website(entry):
+    return entry.fields.get("website", "")
+
+
 ###############################################################################
 
 
@@ -62,6 +73,8 @@ def get_entry_dict(bibtex_file):
         event = get_event(entry)
         place = get_place(entry)
         year, month, day = get_date(entry)
+        note = get_note(entry)
+        website = get_website(entry)
 
         new_entry = {
             "title": title,
@@ -69,7 +82,9 @@ def get_entry_dict(bibtex_file):
             "place": place,
             "year": year,
             "month": month,
-            "day": day
+            "day": day,
+            "note": note,
+            "website": website
         }
         if("keywords" in entry.fields):
             keywords = entry.fields["keywords"].split(", ")
@@ -105,6 +120,11 @@ def compare_entry(a, b):
 ###############################################################################
 
 def remove_latex(string):
+    string = re.sub(
+        r"\\href\{([^}]+)\}\{([^}]+)\}",
+        r"[\2](\1)",
+        string
+    )
     string = re.sub(r"\{*(.*?)\}*", r"\1", string)
     string = string.replace(r"\\", "")
     string = string.replace(r"\&", "&")
@@ -127,7 +147,15 @@ def generate_string_entry(entry):
 
     string = f"{date}: "
     string += f"**{entry['title']}**  \n"
-    string += f"{entry['event']}, {entry['place']}  "
+    string += f"{entry['event']}, {entry['place']}  \n"
+    if(entry["website"] != ""):
+        string += f"{entry['note']}  \n"
+
+    if(entry["website"] == ""):
+        string = string[:-3]
+    else:
+        string += f"[[website]({entry['website']})]"
+
     return string
 
 
