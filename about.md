@@ -1,7 +1,6 @@
 [Inria Rennes](https://www.inria.fr/fr/centre-inria-universite-rennes)  
 [MALT Team](https://team.inria.fr/malt/)  
-Campus de Beaulieu, 263 Avenue Général Leclerc  
-35042 Rennes, France  
+
 
 E-Mail: [paul.viallard@inria.fr](mailto:paul.viallard@inria.fr)  
 Links: [Google Scholar](https://scholar.google.fr/citations?hl=en&user=k-5mpncAAAAJ), [GitHub](https://github.com/paulviallard), [Resume](/assets/resume.pdf)<br /><br />
